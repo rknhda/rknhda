@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Riki Nur Huda 
-👀 I’m interested in Software development, backend technologies, deep Learning technologies, and cloud computing
+👀 I’m interested in mobile apps development, backend technologies, deep Learning technologies, and cloud computing
 🌱 I’m currently learning Laravel, Node.js (Hapi.js), and Flutter
 💞️ I’m looking to collaborate on backend development projects and API development
 How to reach me: Email: rnhuda12@gmail.com
